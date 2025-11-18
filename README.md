@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá! Meu nome é Maria Gabriela
 
-<!--
-**devmariagabriela/devmariagabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Sou estudante universitária de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Também possuo formação técnica em Desenvolvimento de Sistemas, o que reforça minha base de conhecimento na área. Tenho um grande entusiasmo por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Atualmente, venho direcionando meus estudos para o desenvolvimento de projetos em Java, enquanto amplio minha experiência com diferentes ferramentas e tecnologias. Estou sempre pronta para enfrentar desafios e criar soluções inovadoras.💡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso e estudo atualmente:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+🎯 **Foco atual**: Desenvolvimento front/back-end com Java e integração com banco de dados.
+
+---
+
+## 📁 Repositórios em destaque
+
+- [📦 Charging Planner](https://chargingplanner.vercel.app/) – Trata-se de um sistema inteligente de monitoramento veicular que acompanha, em tempo real, a autonomia do veículo elétrico e sugere pontos de recarga ao longo da rota. A solução considera fatores como disponibilidade das estações e tempo de espera, oferecendo ao motorista alternativas ideais de recarga. Com isso, reduz a ansiedade relacionada à autonomia, otimiza o planejamento de viagens e proporciona uma experiência de condução mais tranquila, eficiente e segura.
+
+- [📦 AcessMove](https://drive.google.com/file/d/1LVICH3CyHWlM1pORsDbiV1tBbXL9nB7o/view?usp=drivesdk) - AcessMove é uma plataforma de mobilidade urbana inclusiva, desenvolvida para oferecer um serviço de transporte seguro, acessível e humanizado para pessoas com deficiência. Com foco em acessibilidade digital, veículos adaptados e motoristas capacitados, a AcessMove conecta usuários a corridas personalizadas, respeitando suas necessidades individuais. O projeto promove autonomia, dignidade e inclusão social no deslocamento diário.
+
+- [📦 EduCultura](https://drive.google.com/file/d/1Ibd4IsduY_gXLsnZAI5lBE12mxpX9jWw/view?usp=drivesdk) –  Plataforma educacional desenvolvida para auxiliar professores em sala de aula no ensino da cultura pernambucana. A proposta é tornar o aprendizado mais interativo e regionalizado, oferecendo recursos visuais e didáticos que valorizam o patrimônio cultural do estado.
+
+- [📦 SITE Teakids](https://drive.google.com/file/d/1JCRFCPjVQhvfnyn6XeBTcv9UNEafXTwi/view?usp=drivesdk) – Protótipo de site que apresenta um jogo interativo voltado para o desenvolvimento de habilidades cognitivas em crianças autistas. O projeto foi pensado com foco na acessibilidade, estímulos visuais e atividades lúdicas, promovendo o aprendizado de forma inclusiva e respeitosa às diferentes formas de percepção e interação.
+- [📦 GAME Teakids](https://gx.games/pt-br/games/beq37p/teakids/tracks/2dfa30a5-fc7b-4d07-861c-f8e72e26f905/) - Jogo criado para ajudar crianças autistas a desenvolver habilidades cognitivas como atenção e memória. Com design acessível e atividades lúdicas, oferece um ambiente divertido e seguro para aprendizado e estímulo.
+  
+
+> Navegue pelo meu linkedin para ver mais projetos pessoais, exercícios de faculdade e protótipos em estudo!
+
+---
+
+## 📬 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielapereira19)  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profissional.mariagabriela@gmail.com)
+
+---
+
+💬 Sempre aberto(a) para conversas sobre programação, projetos ou colaborações.  
+✨ Obrigado por visitar meu perfil!
