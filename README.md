@@ -44,9 +44,7 @@
 
 ## 📬 Como me encontrar
 <a href="https://www.linkedin.com/in/gabrielapereira19" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  onmouseover="this.style.opacity='0.7'" 
-  onmouseout="this.style.opacity='1'" />
+  <img src="https://raw.githubusercontent.com/marclelijveld/AnimatedBadges/main/LinkedIn/LinkedInBadge_Pulse.svg" height="45">
 </a>
 
 
