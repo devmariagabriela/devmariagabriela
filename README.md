@@ -3,12 +3,19 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/KiraAnselm/KiraAnselm/main/img/cat.gif" width="350px">
 </div>
-
+<div align="center">
+  <img src="https://mediagcox9LoAAAAj/cat-pixel.gif" alt="Gif do gato" height="100"/>.tenor.com/f5T0
+<p align="center">
+  <a href="https://github.com/nathaliatg/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliatg&layout=compact&theme=swift" alt="Top Langs" />
+  </a>
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🌸;Estudante+de+ADS+💻;Apaixonada+por+UI/UX+✨;Coffee+%26+Code+☕" alt="Typing SVG" />
 </div>
 
 ---
+
 
 ### 🌸 Um pouco sobre minha jornada
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes. Minha missão é unir a precisão do código com a sensibilidade do design.
@@ -22,26 +29,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tira
 ### 🛠 Meu Universo Tecnológico (Glassmorphism Style )
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,tailwind,js,react,nodejs,sequelize,ts,mongodb,postgres,mysql,git,figma,visualstudio,idea,vscode&perline=9" />
-</p>
-
----
-
-### 🌌 Status Galáctico
-<p align="center">
-  <!-- Troféus de conquistas (Diferente dos gráficos comuns ) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=devmariagabriela&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <!-- Streak de contribuições em estilo de fogo -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmariagabriela&theme=dracula&hide_border=true&stroke=FF79C6&ring=BD93F9&fire=FF79C6&currStreakLabel=FF79C6" alt="GitHub Streak" />
-</p>
-
----
-
-### 🎵 Atualmente ouvindo (Spotify Integration )
-<p align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ff79c6&bar_color=bd93f9&bar_color_active=ff79c6&text_color=f8f8f2" alt="Spotify Now Playing" />
 </p>
 
 ---
