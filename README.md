@@ -1,58 +1,61 @@
-# 👋 Olá! Meu nome é Maria Gabriela
+# Olá, eu sou a Gabriela! ✨ 👩🏽‍💻
 
-🎓Sou estudante universitária de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Também possuo formação técnica em Desenvolvimento de Sistemas, o que reforça minha base de conhecimento na área. Tenho um grande entusiasmo por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Atualmente, venho direcionando meus estudos para o desenvolvimento de projetos em Java, enquanto amplio minha experiência com diferentes ferramentas e tecnologias. Estou sempre pronta para enfrentar desafios e criar soluções inovadoras.💡
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KiraAnselm/KiraAnselm/main/img/cat.gif" width="350px">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🌸;Estudante+de+ADS+💻;Apaixonada+por+UI/UX+✨;Coffee+%26+Code+☕" alt="Typing SVG" />
+</div>
 
 ---
-<div align="center">
-  <img src="https://media.tenor.com/f5T0gcox9LoAAAAj/cat-pixel.gif" alt="Gif do gato" height="100"/>
+
+### 🌸 Um pouco sobre minha jornada
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes. Minha missão é unir a precisão do código com a sensibilidade do design.
+
+- 🎀 **Foco atual:** Especialização em APIs e Automações com N8N.
+- 🐈 **Curiosidade:** Meu setup é movido a café e supervisionado pelo meu gato.
+- ✨ **Diferencial:** Olhar crítico para UI/UX em todas as camadas do desenvolvimento.
+
+---
+
+### 🛠 Meu Universo Tecnológico (Glassmorphism Style )
 <p align="center">
-  <a href="https://github.com/nathaliatg/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliatg&layout=compact&theme=swift" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,tailwind,js,react,nodejs,sequelize,ts,mongodb,postgres,mysql,git,figma,visualstudio,idea,vscode&perline=9" />
+</p>
+
+---
+
+### 🌌 Status Galáctico
+<p align="center">
+  <!-- Troféus de conquistas (Diferente dos gráficos comuns ) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=devmariagabriela&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- Streak de contribuições em estilo de fogo -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmariagabriela&theme=dracula&hide_border=true&stroke=FF79C6&ring=BD93F9&fire=FF79C6&currStreakLabel=FF79C6" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎵 Atualmente ouvindo (Spotify Integration )
+<p align="center">
+  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ff79c6&bar_color=bd93f9&bar_color_active=ff79c6&text_color=f8f8f2" alt="Spotify Now Playing" />
+</p>
+
+---
+
+### 📫 Vamos criar algo incrível?
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielapereira19" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:profissional.mariagabriela@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-  
-## 🚀 Tecnologias que uso e estudo atualmente:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-🎯 **Foco atual**: Desenvolvimento front/back-end com Java e integração com banco de dados.
-
----
-
-## 📁 Repositórios em destaque
-
-- [📦 Charging Planner](https://chargingplanner.vercel.app/) – Trata-se de um sistema inteligente de monitoramento veicular que acompanha, em tempo real, a autonomia do veículo elétrico e sugere pontos de recarga ao longo da rota. A solução considera fatores como disponibilidade das estações e tempo de espera, oferecendo ao motorista alternativas ideais de recarga. Com isso, reduz a ansiedade relacionada à autonomia, otimiza o planejamento de viagens e proporciona uma experiência de condução mais tranquila, eficiente e segura.
-
-- [📦 AcessMove](https://drive.google.com/file/d/1LVICH3CyHWlM1pORsDbiV1tBbXL9nB7o/view?usp=drivesdk) - AcessMove é uma plataforma de mobilidade urbana inclusiva, desenvolvida para oferecer um serviço de transporte seguro, acessível e humanizado para pessoas com deficiência. Com foco em acessibilidade digital, veículos adaptados e motoristas capacitados, a AcessMove conecta usuários a corridas personalizadas, respeitando suas necessidades individuais. O projeto promove autonomia, dignidade e inclusão social no deslocamento diário.
-
-- [📦 EduCultura](https://drive.google.com/file/d/1Ibd4IsduY_gXLsnZAI5lBE12mxpX9jWw/view?usp=drivesdk) –  Plataforma educacional desenvolvida para auxiliar professores em sala de aula no ensino da cultura pernambucana. A proposta é tornar o aprendizado mais interativo e regionalizado, oferecendo recursos visuais e didáticos que valorizam o patrimônio cultural do estado.
-
-- [📦 SITE Teakids](https://drive.google.com/file/d/1JCRFCPjVQhvfnyn6XeBTcv9UNEafXTwi/view?usp=drivesdk) – Protótipo de site que apresenta um jogo interativo voltado para o desenvolvimento de habilidades cognitivas em crianças autistas. O projeto foi pensado com foco na acessibilidade, estímulos visuais e atividades lúdicas, promovendo o aprendizado de forma inclusiva e respeitosa às diferentes formas de percepção e interação.
-- [📦 GAME Teakids](https://gx.games/pt-br/games/beq37p/teakids/tracks/2dfa30a5-fc7b-4d07-861c-f8e72e26f905/) - Jogo criado para ajudar crianças autistas a desenvolver habilidades cognitivas como atenção e memória. Com design acessível e atividades lúdicas, oferece um ambiente divertido e seguro para aprendizado e estímulo.
-  
-
-> Navegue pelo meu linkedin para ver mais projetos pessoais, exercícios de faculdade e protótipos em estudo!
-
----
-
-## 📬 Como me encontrar
-<a href="https://www.linkedin.com/in/gabrielapereira19" target="_blank">
-  <img src="https://raw.githubusercontent.com/marclelijveld/AnimatedBadges/main/LinkedIn/LinkedInBadge_Pulse.svg" height="45">
-</a>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielapereira19)  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profissional.mariagabriela@gmail.com)
-
----
-
-💬 Sempre aberto(a) para conversas sobre programação, projetos ou colaborações.  
-✨ Obrigado por visitar meu perfil!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer" />
+</div>
