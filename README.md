@@ -4,11 +4,10 @@
   <img src="https://raw.githubusercontent.com/KiraAnselm/KiraAnselm/main/img/cat.gif" width="350px">
 </div>
 <div align="center">
-  <img src="https://mediagcox9LoAAAAj/cat-pixel.gif" alt="Gif do gato" height="100"/>.tenor.com/f5T0
+ <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" />
 <p align="center">
   <a href="https://github.com/nathaliatg/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliatg&layout=compact&theme=swift" alt="Top Langs" />
-  </a>
+  
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🌸;Estudante+de+ADS+💻;Apaixonada+por+UI/UX+✨;Coffee+%26+Code+☕" alt="Typing SVG" />
