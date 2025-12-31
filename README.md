@@ -20,9 +20,10 @@
 ### 🌸 Um pouco sobre minha jornada
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes. Minha missão é unir a precisão do código com a sensibilidade do design.
 
-- 🎀 **Foco atual:** Especialização em APIs e Automações com N8N.
-- 🐈 **Curiosidade:** Meu setup é movido a café e supervisionado pelo meu gato.
-- ✨ **Diferencial:** Olhar crítico para UI/UX em todas as camadas do desenvolvimento.
+
+ 🎀 **Foco atual:** Especialização em APIs e Automações com N8N.
+ 🐈 **Curiosidade:** Meu setup é movido a café e supervisionado pelo meu gato.
+ ✨ **Diferencial:** Olhar crítico para UI/UX em todas as camadas do desenvolvimento.
 
 ---
 
