@@ -28,7 +28,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tira
 
 ### 🛠 Meu Universo Tecnológico (Glassmorphism Style )
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,tailwind,js,react,nodejs,sequelize,ts,mongodb,postgres,mysql,git,figma,visualstudio,idea,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=,java,spring,js,react,nodejs,mongodb,postgres,mysql,git,figma,idea,vscode&perline=" />
 </p>
 
 ---
