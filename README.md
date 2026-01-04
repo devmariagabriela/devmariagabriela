@@ -17,11 +17,17 @@
 
 
 ### 🌸 Um pouco sobre minha jornada
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Tiradentes. Minha missão é unir a precisão do código com a sensibilidade do design.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (UNIT), apaixonada por transformar ideias em soluções digitais.
+
+Tenho experiência com desenvolvimento front-end e back-end, além de projetos envolvendo inteligência artificial, visão computacional e jogos.
+
+Atuo como aluna mentora na UNIT e fui bolsista do CNPq, com trajetória marcada por projetos reconhecidos, medalhas e troféus por desempenho.
+
+Busco unir lógica, criatividade e impacto social por meio da tecnologia. Atualmente, desenvolvo projetos que conectam tecnologia, responsabilidade social e experiência do usuário.
 
 
-- 🎀 **Foco atual:** Especialização em APIs e Automações com N8N.
--🐈 **Curiosidade:** Meu setup é movido a café e supervisionado pelo meu gato.
+- 🎀 **Foco atual:** Desenvolvimento de soluções tecnológicas com impacto social e foco no usuário.
+- 🐈  **Curiosidade:** Meu setup é movido a café e supervisionado pelo meu gato.
 - ✨ **Diferencial:** Olhar crítico para UI/UX em todas as camadas do desenvolvimento.
 
 ---
