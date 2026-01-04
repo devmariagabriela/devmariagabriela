@@ -43,7 +43,7 @@ Busco unir lógica, criatividade e impacto social por meio da tecnologia. Atualm
 
 ---
 
-### 🛠 Meu Universo Tecnológico (Glassmorphism Style )
+### 🛠 Meu Universo Tecnológico 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=,java,spring,js,react,nodejs,mongodb,postgres,mysql,git,figma,idea,vscode&perline=" />
 </p>
