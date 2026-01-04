@@ -1,4 +1,4 @@
-# Olá, eu sou a Gabriela! ✨ 👩🏽‍💻
+# Olá, eu sou a Gabriela! ✨ 👩🏻‍💻
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KiraAnselm/KiraAnselm/main/img/cat.gif" width="350px">
