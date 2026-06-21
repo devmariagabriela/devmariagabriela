@@ -21,7 +21,7 @@ Com experiência que vai do desenho da arquitetura de **APIs RESTful** robustas 
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,java,spring,js,ts,go,python,vue,react,postgres,mysql,docker,git,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,java,spring,js,ts,go,python,vue,react,typescript,postgres,mysql,docker,git,idea,vscode,eclipse,linux" />
 </p>
 
 ---
