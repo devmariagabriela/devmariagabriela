@@ -1,62 +1,42 @@
 # Olá, eu sou a Gabriela! ✨ 👩🏻‍💻
 
-
-
-
-
-
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KiraAnselm/KiraAnselm/main/img/cat.gif" width="350px">
+  <img src="https://raw.githubusercontent.com/KiraAnselm/KiraAnselm/main/img/cat.gif" width="380px">
 </div>
+
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" />
-<p align="center">
-  <a href="https://github.com/nathaliatg/github-readme-stats">
-  
-</p>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🌸;Estudante+de+ADS+💻;Apaixonada+por+UI/UX+✨;Coffee+%26+Code+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🌸;Golang+%26+Java+Backend+⚙️;Vue.js+%26+React+Frontend+💻;UI%2FUX+Design+Driven+✨" alt="Typing SVG" />
 </div>
 
 ---
 
+### 🌸 Sobre Mim
+Sou **Desenvolvedora Full Stack** focada em construir aplicações de alto desempenho, escaláveis e com forte apelo visual. Combino uma base sólida de engenharia de software no ecossistema de backend com a sensibilidade de criar interfaces fluidas e intuitivas.
 
-### 🌸 Um pouco sobre minha jornada
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (UNIT) - Bolsista do Embarque Digital, apaixonada por transformar ideias em soluções digitais.
-Tenho experiência com desenvolvimento front-end e back-end, além de projetos envolvendo inteligência artificial, visão computacional e jogos.
-Atuo como aluna mentora na UNIT e fui bolsista do CNPq, com trajetória marcada por projetos reconhecidos, medalhas e troféus por desempenho.
-Busco unir lógica, criatividade e impacto social por meio da tecnologia. Atualmente, desenvolvo projetos que conectam tecnologia, responsabilidade social e experiência do usuário.
-
-
-
-
-
-
-
-
-
-
-
+Com experiência que vai do desenho da arquitetura de **APIs RESTful** robustas até a entrega da melhor experiência de usuário (**UI/UX**), busco constantemente unir lógica rigorosa, criatividade e eficiência técnica para resolver problemas reais de mercado.
 
 ---
 
+### 🛠️ Meu Universo Tecnológico
 
+#### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,java,spring,nodejs,postgres,mysql,mongodb" />
+</p>
 
-- 🎀 **Foco atual:** Desenvolvimento de soluções tecnológicas com impacto social e foco no usuário.
-- 🐈  **Curiosidade:** Meu setup é movido a café e supervisionado pelo meu gato.
-- ✨ **Diferencial:** Olhar crítico para UI/UX em todas as camadas do desenvolvimento.
+#### 💻 Frontend & UI/UX
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,react,js,ts,figma" />
+</p>
 
----
-
-### 🛠 Meu Universo Tecnológico 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=,java,spring,js,react,nodejs,mongodb,postgres,mysql,git,figma,idea,vscode&perline=" />
+#### 🧰 Ferramentas & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,idea,vscode" />
 </p>
 
 ---
 
-### 📫 Vamos criar algo incrível?
+### 🎀 Conecte-se Comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielapereira19" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -65,6 +45,12 @@ Busco unir lógica, criatividade e impacto social por meio da tecnologia. Atualm
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiraAnselm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiraAnselm&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer" />
