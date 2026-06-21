@@ -1,19 +1,5 @@
 # Olá, eu sou a Gabriela! ✨ 👩🏻‍💻
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KiraAnselm/KiraAnselm/main/img/cat.gif" width="350">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🌸;Backend+Developer+🚀;Golang+Enthusiast+🐹">
-</div>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmariagabriela&show_icons=true&theme=radical"/>
-
-
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 
 
 
